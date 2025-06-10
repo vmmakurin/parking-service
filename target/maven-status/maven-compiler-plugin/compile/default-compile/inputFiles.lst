@@ -1,0 +1,14 @@
+/Users/adminpro/Projects/Parking-service/src/main/java/parkingService/MyEntity.java
+/Users/adminpro/Projects/Parking-service/src/main/java/parkingService/ParkingResource.java
+/Users/adminpro/Projects/Parking-service/src/main/java/parkingService/controller/ParkingController.java
+/Users/adminpro/Projects/Parking-service/src/main/java/parkingService/dto/ParkingReportResponse.java
+/Users/adminpro/Projects/Parking-service/src/main/java/parkingService/dto/VehicleEntryRequest.java
+/Users/adminpro/Projects/Parking-service/src/main/java/parkingService/dto/VehicleEntryResponse.java
+/Users/adminpro/Projects/Parking-service/src/main/java/parkingService/dto/VehicleExitRequest.java
+/Users/adminpro/Projects/Parking-service/src/main/java/parkingService/dto/VehicleExitResponse.java
+/Users/adminpro/Projects/Parking-service/src/main/java/parkingService/model/ParkingStatus.java
+/Users/adminpro/Projects/Parking-service/src/main/java/parkingService/model/Vehicle.java
+/Users/adminpro/Projects/Parking-service/src/main/java/parkingService/model/VehicleType.java
+/Users/adminpro/Projects/Parking-service/src/main/java/parkingService/repository/VehicleRepository.java
+/Users/adminpro/Projects/Parking-service/src/main/java/parkingService/service/ParkingService.java
+/Users/adminpro/Projects/Parking-service/src/main/java/parkingService/service/ParkingServiceImpl.java

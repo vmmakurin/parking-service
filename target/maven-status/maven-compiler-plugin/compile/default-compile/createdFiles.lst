@@ -1,0 +1,14 @@
+parkingService/model/Vehicle.class
+parkingService/service/ParkingService.class
+parkingService/dto/VehicleEntryRequest.class
+parkingService/service/ParkingServiceImpl.class
+parkingService/dto/VehicleEntryResponse.class
+parkingService/ParkingResource.class
+parkingService/controller/ParkingController.class
+parkingService/dto/VehicleExitResponse.class
+parkingService/dto/ParkingReportResponse.class
+parkingService/repository/VehicleRepository.class
+parkingService/MyEntity.class
+parkingService/model/VehicleType.class
+parkingService/dto/VehicleExitRequest.class
+parkingService/model/ParkingStatus.class
